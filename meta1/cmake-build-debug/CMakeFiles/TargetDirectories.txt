@@ -1,0 +1,3 @@
+/home/daniel/Desktop/tp/cmake-build-debug/CMakeFiles/tp.dir
+/home/daniel/Desktop/tp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/Desktop/tp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
